@@ -1,0 +1,14 @@
+{
+  "name": "bank-marketing-ml",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "csv-stringify": "^6.4.4"
+  }
+}
